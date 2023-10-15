@@ -8,6 +8,12 @@ editor: visual
 self-contained: true
 ---
 
+::: callout-note
+## NOTE:
+
+Be sure to edit this document (see above) to include your name (and the date)
+:::
+
 ## Setup
 
 Load packages and data:
