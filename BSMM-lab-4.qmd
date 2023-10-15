@@ -9,7 +9,7 @@ self-contained: true
 ---
 
 ::: callout-note
-## NOTE:
+## REMINDER:
 
 Be sure to edit this document (see above) to include your name (and the date)
 :::
